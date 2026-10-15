@@ -1,5 +1,7 @@
 # lead-pipeline — LLM-конвейер обработки заявок
 
+[![CI](https://github.com/dobrewoks1/lead-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/dobrewoks1/lead-pipeline/actions/workflows/ci.yml)
+
 Входящие обращения (письма, заявки с сайта, сообщения из чата) → классификация и
 извлечение полей через Claude → таблица CSV/XLSX → необязательная сводка в Telegram
 и выгрузка в Google Sheets. Промпты версионируются, качество измеряется на размеченном
@@ -90,12 +92,14 @@ pytest
 срочности ≥ 80 %**. По умолчанию он идёт на заглушке; `LEAD_EVAL_PROVIDER=anthropic pytest evals/`
 запускает его на Claude (нужен ключ, иначе тест пропускается).
 
-**Docker**:
+**Docker** (образ собирается и проверяется в CI на каждый push):
 
 ```bash
 docker build -t lead-pipeline .
 docker run --env-file .env -v %cd%/out:/app/out lead-pipeline
 ```
+
+**Показ на собеседовании**: сценарий на 3 минуты в [docs/DEMO.md](docs/DEMO.md).
 
 ## Результаты
 

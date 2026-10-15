@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  tests:
+    name: pytest (Python 3.11, без сети)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: pytest
+        env:
+          LLM_PROVIDER: fake
+
+  docker:
+    name: docker build + smoke-test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t lead-pipeline .
+      - name: Прогон 80 заявок в контейнере (провайдер-заглушка)
+        run: docker run --rm -e LLM_PROVIDER=fake lead-pipeline run --input data/sample.jsonl --out /tmp/out --provider fake --no-notify
