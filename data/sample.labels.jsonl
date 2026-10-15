@@ -1,0 +1,80 @@
+{"id": "L-0001", "category": "жалоба", "urgency": "высокая", "name": "Андрей Соколов", "phone": "+79130000038", "service": "шиномонтаж", "desired_date": null, "budget": null}
+{"id": "L-0002", "category": "запись", "urgency": "средняя", "name": "Олег", "phone": "+79130000013", "service": "развал-схождение", "desired_date": "завтра утром", "budget": null}
+{"id": "L-0003", "category": "партнёрство", "urgency": "низкая", "name": "Наталья Новикова", "phone": "+79130000053", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0004", "category": "цена", "urgency": "низкая", "name": null, "phone": null, "service": "ТО", "desired_date": null, "budget": null}
+{"id": "L-0005", "category": "партнёрство", "urgency": "низкая", "name": "Елена Орлова", "phone": "+79130000020", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0006", "category": "запись", "urgency": "средняя", "name": "Дмитрий Козлов", "phone": "+79130000091", "service": "замена ГРМ", "desired_date": "завтра утром", "budget": 5000}
+{"id": "L-0007", "category": "жалоба", "urgency": "высокая", "name": "Марина", "phone": "+79130000014", "service": "ТО", "desired_date": null, "budget": null}
+{"id": "L-0008", "category": "цена", "urgency": "средняя", "name": null, "phone": "+79130000043", "service": "развал-схождение", "desired_date": null, "budget": null}
+{"id": "L-0009", "category": "цена", "urgency": "средняя", "name": "Олег", "phone": null, "service": "шиномонтаж", "desired_date": null, "budget": 20000}
+{"id": "L-0010", "category": "цена", "urgency": "средняя", "name": "Олег", "phone": "+79130000080", "service": "шиномонтаж", "desired_date": null, "budget": 15000}
+{"id": "L-0011", "category": "запись", "urgency": "средняя", "name": "Андрей", "phone": "+79130000032", "service": "шиномонтаж", "desired_date": "в четверг в 10:00", "budget": null}
+{"id": "L-0012", "category": "запись", "urgency": "высокая", "name": "Олег", "phone": "+79130000086", "service": "ремонт подвески", "desired_date": null, "budget": null}
+{"id": "L-0013", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0014", "category": "жалоба", "urgency": "высокая", "name": "Юлия", "phone": "+78913000049", "service": "замена колодок", "desired_date": null, "budget": null}
+{"id": "L-0015", "category": "запись", "urgency": "средняя", "name": "Елена", "phone": "+79130000038", "service": "шиномонтаж", "desired_date": "завтра утром", "budget": null}
+{"id": "L-0016", "category": "цена", "urgency": "низкая", "name": null, "phone": null, "service": "хранение шин", "desired_date": null, "budget": null}
+{"id": "L-0017", "category": "запись", "urgency": "высокая", "name": "Ирина", "phone": "+78913000062", "service": "замена масла", "desired_date": "в четверг в 10:00", "budget": null}
+{"id": "L-0018", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0019", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0020", "category": "цена", "urgency": "средняя", "name": "Наталья", "phone": null, "service": "заправка кондиционера", "desired_date": "послезавтра", "budget": null}
+{"id": "L-0021", "category": "запись", "urgency": "средняя", "name": "Игорь Петров", "phone": "+79130000084", "service": "замена масла", "desired_date": "завтра утром", "budget": 8000}
+{"id": "L-0022", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0023", "category": "жалоба", "urgency": "высокая", "name": null, "phone": "+79130000094", "service": "хранение шин", "desired_date": null, "budget": null}
+{"id": "L-0024", "category": "запись", "urgency": "средняя", "name": "Татьяна Морозова", "phone": "+79130000050", "service": "замена масла", "desired_date": "послезавтра", "budget": 15000}
+{"id": "L-0025", "category": "запись", "urgency": "средняя", "name": "Дмитрий Соколов", "phone": "+79130000057", "service": "диагностика", "desired_date": "послезавтра", "budget": 15000}
+{"id": "L-0026", "category": "жалоба", "urgency": "высокая", "name": "Сергей Орлов", "phone": "+79130000024", "service": "замена ГРМ", "desired_date": null, "budget": null}
+{"id": "L-0027", "category": "жалоба", "urgency": "высокая", "name": "Олег", "phone": "+79130000042", "service": "шиномонтаж", "desired_date": null, "budget": null}
+{"id": "L-0028", "category": "жалоба", "urgency": "высокая", "name": "Наталья", "phone": "+78913000080", "service": "замена ГРМ", "desired_date": null, "budget": null}
+{"id": "L-0029", "category": "цена", "urgency": "низкая", "name": "Сергей Новиков", "phone": null, "service": "заправка кондиционера", "desired_date": null, "budget": null}
+{"id": "L-0030", "category": "партнёрство", "urgency": "низкая", "name": "Вера", "phone": "+79130000040", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0031", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0032", "category": "партнёрство", "urgency": "низкая", "name": "Елена", "phone": "+79130000094", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0033", "category": "цена", "urgency": "низкая", "name": "Павел Петров", "phone": null, "service": "диагностика", "desired_date": null, "budget": null}
+{"id": "L-0034", "category": "партнёрство", "urgency": "низкая", "name": "Вера", "phone": "+78913000024", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0035", "category": "партнёрство", "urgency": "низкая", "name": "Ирина", "phone": "+79130000018", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0036", "category": "цена", "urgency": "средняя", "name": "Татьяна", "phone": "+79130000026", "service": "ТО", "desired_date": null, "budget": 10000}
+{"id": "L-0037", "category": "партнёрство", "urgency": "низкая", "name": null, "phone": "+79130000065", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0038", "category": "цена", "urgency": "средняя", "name": null, "phone": "+79130000046", "service": "хранение шин", "desired_date": null, "budget": null}
+{"id": "L-0039", "category": "запись", "urgency": "средняя", "name": "Елена", "phone": "+79130000088", "service": "ремонт подвески", "desired_date": "в пятницу вечером", "budget": null}
+{"id": "L-0040", "category": "запись", "urgency": "средняя", "name": "Алексей Смирнов", "phone": "+79130000064", "service": "диагностика", "desired_date": "завтра утром", "budget": 15000}
+{"id": "L-0041", "category": "запись", "urgency": "высокая", "name": "Олег", "phone": "+79130000086", "service": "ремонт подвески", "desired_date": "20.10", "budget": null}
+{"id": "L-0042", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0043", "category": "запись", "urgency": "средняя", "name": "Павел Волков", "phone": "+79130000020", "service": "диагностика", "desired_date": "в субботу утром", "budget": 10000}
+{"id": "L-0044", "category": "цена", "urgency": "средняя", "name": "Анна", "phone": "+78913000036", "service": "ТО", "desired_date": null, "budget": 20000}
+{"id": "L-0045", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0046", "category": "цена", "urgency": "средняя", "name": null, "phone": "+79130000069", "service": "хранение шин", "desired_date": null, "budget": null}
+{"id": "L-0047", "category": "жалоба", "urgency": "высокая", "name": "Роман", "phone": "+79130000016", "service": "ТО", "desired_date": null, "budget": null}
+{"id": "L-0048", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0049", "category": "запись", "urgency": "средняя", "name": "Игорь", "phone": "+79130000089", "service": "развал-схождение", "desired_date": "в субботу", "budget": null}
+{"id": "L-0050", "category": "партнёрство", "urgency": "низкая", "name": "Вера", "phone": "+79130000024", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0051", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0052", "category": "цена", "urgency": "средняя", "name": "Ирина", "phone": "+79130000074", "service": "замена масла", "desired_date": null, "budget": 10000}
+{"id": "L-0053", "category": "партнёрство", "urgency": "низкая", "name": "Наталья", "phone": "+79130000093", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0054", "category": "запись", "urgency": "средняя", "name": "Андрей", "phone": "+78913000041", "service": "хранение шин", "desired_date": "20.10", "budget": null}
+{"id": "L-0055", "category": "цена", "urgency": "низкая", "name": null, "phone": null, "service": "заправка кондиционера", "desired_date": null, "budget": null}
+{"id": "L-0056", "category": "цена", "urgency": "средняя", "name": "Светлана", "phone": null, "service": "шиномонтаж", "desired_date": null, "budget": 5000}
+{"id": "L-0057", "category": "цена", "urgency": "низкая", "name": "Олег Лебедев", "phone": null, "service": "замена колодок", "desired_date": null, "budget": null}
+{"id": "L-0058", "category": "партнёрство", "urgency": "низкая", "name": null, "phone": "+79130000098", "service": null, "desired_date": null, "budget": null}
+{"id": "L-0059", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0060", "category": "запись", "urgency": "средняя", "name": "Светлана", "phone": "+79130000011", "service": "заправка кондиционера", "desired_date": "послезавтра", "budget": null}
+{"id": "L-0061", "category": "цена", "urgency": "средняя", "name": "Виктор", "phone": null, "service": "замена масла", "desired_date": "в субботу", "budget": null}
+{"id": "L-0062", "category": "партнёрство", "urgency": "низкая", "name": "Вера Козлова", "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0063", "category": "жалоба", "urgency": "высокая", "name": null, "phone": "+79130000090", "service": "заправка кондиционера", "desired_date": null, "budget": null}
+{"id": "L-0064", "category": "запись", "urgency": "высокая", "name": "Вера", "phone": "+79130000047", "service": "развал-схождение", "desired_date": "на выходных", "budget": null}
+{"id": "L-0065", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0066", "category": "партнёрство", "urgency": "низкая", "name": "Константин Орлов", "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0067", "category": "запись", "urgency": "высокая", "name": "Анна", "phone": "+79130000087", "service": "замена масла", "desired_date": "сегодня после 18:00", "budget": null}
+{"id": "L-0068", "category": "жалоба", "urgency": "высокая", "name": "Светлана", "phone": "+78913000093", "service": "заправка кондиционера", "desired_date": null, "budget": null}
+{"id": "L-0069", "category": "цена", "urgency": "низкая", "name": null, "phone": null, "service": "ремонт подвески", "desired_date": null, "budget": null}
+{"id": "L-0070", "category": "цена", "urgency": "низкая", "name": null, "phone": null, "service": "замена ГРМ", "desired_date": null, "budget": null}
+{"id": "L-0071", "category": "цена", "urgency": "средняя", "name": "Марина", "phone": "+79130000044", "service": "диагностика", "desired_date": null, "budget": 10000}
+{"id": "L-0072", "category": "запись", "urgency": "высокая", "name": "Татьяна", "phone": "+79130000011", "service": "ТО", "desired_date": "сегодня после 18:00", "budget": null}
+{"id": "L-0073", "category": "цена", "urgency": "средняя", "name": null, "phone": "+78913000044", "service": "ремонт подвески", "desired_date": null, "budget": null}
+{"id": "L-0074", "category": "жалоба", "urgency": "высокая", "name": "Дмитрий", "phone": "+79130000063", "service": "замена ГРМ", "desired_date": null, "budget": null}
+{"id": "L-0075", "category": "цена", "urgency": "средняя", "name": "Роман", "phone": null, "service": "замена колодок", "desired_date": null, "budget": 15000}
+{"id": "L-0076", "category": "жалоба", "urgency": "высокая", "name": "Анна", "phone": "+78913000050", "service": "ТО", "desired_date": null, "budget": null}
+{"id": "L-0077", "category": "цена", "urgency": "средняя", "name": "Роман", "phone": null, "service": "замена масла", "desired_date": "завтра утром", "budget": null}
+{"id": "L-0078", "category": "спам", "urgency": "низкая", "name": null, "phone": null, "service": null, "desired_date": null, "budget": null}
+{"id": "L-0079", "category": "запись", "urgency": "средняя", "name": "Татьяна Соколова", "phone": "+78913000021", "service": "шиномонтаж", "desired_date": "в четверг в 10:00", "budget": 20000}
+{"id": "L-0080", "category": "запись", "urgency": "средняя", "name": "Марина Орлова", "phone": "+79130000055", "service": "ТО", "desired_date": "в субботу", "budget": 5000}
