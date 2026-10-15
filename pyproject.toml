@@ -25,4 +25,5 @@ include = ["lead_pipeline*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests", "evals"]
+pythonpath = ["."]
 addopts = "-q"
